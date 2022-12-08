@@ -1,0 +1,11 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+.navegacion ul {
+    display: flex;
+    justify-content: space-around;
+    
+
+}

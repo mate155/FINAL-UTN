@@ -1,0 +1,19 @@
+.fernet {
+    height: 20%;
+}
+.carousel-control-prev-icon{
+    background-color: black;
+}
+.carousel-control-next-icon{
+    background-color: black;
+}
+.carousel-caption h3 {
+    color: black;
+    
+}
+.carousel-caption {
+    color: black;
+    background-color: white;
+    opacity: .7;
+    padding: 0;
+}

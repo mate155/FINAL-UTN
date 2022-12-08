@@ -18,14 +18,7 @@ export default function NavbarBoos() {
             <Nav.Link href="#home">Home</Nav.Link>
             <Link to={'/Productos'}>Productos</Link>
             <NavDropdown title="Acceder" id="basic-nav-dropdown">
-              <NavDropdown.Item href="#action/3.1">Registrarse</NavDropdown.Item>
-              <NavDropdown.Item href="#action/3.2">
-                Iniciar Sesion
-              </NavDropdown.Item>
-              <NavDropdown.Divider />
-              <NavDropdown.Item href="#action/3.4">
-                Contacto
-              </NavDropdown.Item>
+              <NavDropdown.Item href="#Contacto">Contacto</NavDropdown.Item>
             </NavDropdown>
           </Nav>
         </Navbar.Collapse>
